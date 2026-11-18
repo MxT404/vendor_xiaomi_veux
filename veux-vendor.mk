@@ -224,13 +224,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/veux/proprietary/vendor/etc/init/vendor.sensors.sscrpcd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.sensors.sscrpcd.rc \
     vendor/xiaomi/veux/proprietary/vendor/etc/init/vendor.silead.hardware.fingerprintext@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.silead.hardware.fingerprintext@1.0-service.rc \
     vendor/xiaomi/veux/proprietary/vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc \
-    vendor/xiaomi/veux/proprietary/vendor/etc/libnfc-nci-pn557.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci-pn557.conf \
-    vendor/xiaomi/veux/proprietary/vendor/etc/libnfc-nci-sn100.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci-sn100.conf \
-    vendor/xiaomi/veux/proprietary/vendor/etc/libnfc-pn557.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-pn557.conf \
-    vendor/xiaomi/veux/proprietary/vendor/etc/libnfc-sn100.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-sn100.conf \
     vendor/xiaomi/veux/proprietary/vendor/etc/lowi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/lowi.conf \
     vendor/xiaomi/veux/proprietary/vendor/etc/media_blair/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_blair/video_system_specs.json \
-    vendor/xiaomi/veux/proprietary/vendor/etc/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt \
     vendor/xiaomi/veux/proprietary/vendor/etc/qcril_database/qcrilNr.db:$(TARGET_COPY_OUT_VENDOR)/etc/qcril_database/qcrilNr.db \
     vendor/xiaomi/veux/proprietary/vendor/etc/qcril_database/upgrade/config/10.0_config.sql:$(TARGET_COPY_OUT_VENDOR)/etc/qcril_database/upgrade/config/10.0_config.sql \
     vendor/xiaomi/veux/proprietary/vendor/etc/qcril_database/upgrade/config/12.0_config.sql:$(TARGET_COPY_OUT_VENDOR)/etc/qcril_database/upgrade/config/12.0_config.sql \
